@@ -1,0 +1,91 @@
+.logoDiv {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px !important;
+    margin-top: 20px !important;
+}
+
+.leftlogo {
+    height: 60px;
+}
+
+.topImg {
+    width: 100%;
+}
+
+.cardDiv {
+    border-radius: 10px;
+    border: 2px solid #951e20;
+    background-color: #fff;
+}
+
+.cardtopDiv {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 10px;
+}
+
+.cardtitle1 {
+    background-color: #f47c20;
+    text-align: center;
+    margin-top: 10px;
+    width: 40px;
+    height: 20px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 15px;
+    color: #fff;
+}
+
+.cardtopleftDiv {
+    background-color: #951e20;
+    width: 80px;
+    text-align: center;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    padding: 3px;
+}
+
+.cardbottomDiv {
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: 65px; */
+    padding-right: 10px;
+}
+
+.cardtitle2 {
+    background-color: #951e20;
+    width: 80px;
+    height: 22px;
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.button {
+    color: #fff;
+    border-radius: 15px;
+    height: 20px;
+}
+
+.bottomDiv {
+    background-color: #f47c20;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.bottomIcon {
+    margin-bottom: 10px;
+}
+
+.MuiOutlinedInput-root {
+    width: 105%;
+}

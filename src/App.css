@@ -1,0 +1,90 @@
+.container {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.sub_container {
+  width: 70% !important;
+}
+
+.calcualtor_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.calcualtor_sub_container {
+  background-color: #edeef0;
+  padding: 2rem;
+  width: 70%;
+  margin-bottom: 2rem;
+}
+
+.header_nav_menu {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav_menu_item {
+  margin-right: 1rem;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 3rem;
+}
+
+.btn_total {
+  background-image: linear-gradient(to right, #3db933, #0fbf9b);
+  height: 90%;
+  width: 100%;
+  font-size: 2rem !important;
+  color: #fff !important;
+}
+
+.textfield {
+  width: 90%;
+  margin-bottom: 1rem !important;
+}
+
+.footer_container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.MuiOutlinedInput-root {
+  width: 105%;
+}
+
+.socialmedia_title {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.footter_img {
+  margin-right: 0.7rem;
+  cursor: pointer;
+}
+
+.multi-line-text-truncate {
+  overflow: hidden;
+  max-width: 400px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  margin: 20px auto;
+}
+
+@media screen and (max-width: 599px) {
+  .textfield {
+    width: 100%;
+  }
+  .btn_total {
+    height: 100px;
+  }
+}

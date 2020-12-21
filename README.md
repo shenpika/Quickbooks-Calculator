@@ -1,6 +1,6 @@
 # QuickBooks React Calculator App
 
-<img width=“964” alt=“Final results” src=“https://github.com/shenpika/Quickbooks-Calculator/blob/master/public/assets/output_preview.png”>
+![Final results](https://github.com/shenpika/Quickbooks-Calculator/blob/master/public/assets/output_preview.png?raw=true)
 
 ## Scripts to run
 1. npm install
